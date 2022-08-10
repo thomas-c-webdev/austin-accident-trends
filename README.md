@@ -1,4 +1,4 @@
-# austin-accident-trends
+# Austin-Accident-Trends
 This project records the car accidents within the city of Austin, Texas. Then it uses data visualization to display the trends of car accidents based on what times of day they occurs and on what roads.
 ## Motivation
 Accordig to the U.S Census Burea, the city of Austin, Texas had the fastest growing metro area in the country overall from 2010 to 2020. There's annually about 33,700 new people from domestic migration, 6,660 people from foreign migration, and roughly 15,980 from regular growth. That's a lot of people, and that means a lot of people on the roads. 
