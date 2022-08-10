@@ -15,7 +15,7 @@ As these devices currently stand, most can only be optimized for cost, distance,
 
 Yet, one could argue that if everyone used a GPS that optimized itself for historical safety and could avoid roads, that car accidents would just happen in other areas that'd now be newly crowded. 
 
-Not true, since the GPS could still monitor congestion, as modern GPSs do, and redirect some traffic onto the high risk roads, making them less congested and arguably safer. It could aid in balancing traffic in this manner, while prioritizing safety around historical road events. This idea can be thought of as the dictum: no one should be unknowlingly directed a high collision road site by their GPS. 
+Not true, since the GPS could still monitor congestion, as modern GPSs do, and redirect some traffic onto the high risk roads, making them less congested and arguably safer. It could aid in balancing traffic in this manner, while prioritizing safety around historical road events as well. This idea can be thought of as the dictum: 'no one should be unknowlingly directed to a high collision road site by their GPS'. 
 
 This project is an simply attempt to access, record, and visualize the data of Austin traffic incidents in real time. 
 
