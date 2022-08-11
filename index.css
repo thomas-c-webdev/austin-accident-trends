@@ -1,0 +1,25 @@
+body{
+    background-image: url('aas-background.png');
+}
+p, h1{
+    margin-left: 10vw; 
+    margin-right: 10vw;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    padding-top: 3vh;
+    padding-bottom: 3vw; 
+    letter-spacing: .3em;
+}
+section {
+    display:flex;
+    margin: 5vh 10vw;
+    background-color: white;
+}
+.container{
+    border: 2px solid;
+    height: 70vh;
+    width: 40vw;
+
+}
